@@ -1,4 +1,5 @@
 {
+    "version": "4.0.0",
     "name":         "jms/i18n-routing-bundle",
     "description":  "This bundle allows you to create i18n routes.",
     "keywords":     ["translation","multilanguage","routing"],
